@@ -169,7 +169,6 @@ section h2 {
         display: flex;
         flex-wrap: wrap-reverse;
         width: 100px;
-        background-color: #939aac;
     }
 
     header nav ul li {
